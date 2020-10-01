@@ -1,7 +1,7 @@
 # portfolio_subinadk
-Features:
-About Section
-Navigation Header with logo
-Showcased Features
-Social media links integrations
-Contacts form
+# Features included:
+1.About Section
+2.Navigation Header with logo
+3.Showcased Features
+4.Social media links integrations
+5.Contacts form
